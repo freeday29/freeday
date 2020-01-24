@@ -1,0 +1,2 @@
+# freeday
+Repository untuk Kuliah
